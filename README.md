@@ -1,7 +1,7 @@
 # grafika-hazi-1
 Szíriusz háromszög rajzoló.
 
-A repository egy Visual Studio solution. A működéshez esetleg szükség lehet retarget-elésre vagy egyéb konfigurációra.
+A repository egy Visual Studio solution. A működéshez esetleg szükség lehet retarget-re vagy egyéb konfigurációra.
 
 #### Feladatkiírás:
 
