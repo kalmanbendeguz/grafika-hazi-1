@@ -1,11 +1,1 @@
-﻿  framework.cpp
-D:\temp\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\framework.h(167,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  Skeleton.cpp
-D:\temp\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\framework.h(167,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\temp\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(81,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\temp\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(134,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\temp\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(135,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\temp\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(142,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\temp\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(311,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Generating Code...
-  Skeleton.vcxproj -> D:\temp\GrafikaHaziCsomag\Programs\Skeleton\bin\Skeleton.exe
+﻿
